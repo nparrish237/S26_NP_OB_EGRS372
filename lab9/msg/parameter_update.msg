@@ -1,0 +1,4 @@
+float64 max_lin_spd
+string backward_move
+float64 max_rot_spd
+string adjust_orient
